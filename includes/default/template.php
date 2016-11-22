@@ -17,7 +17,7 @@
         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet"> 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="<?php echo plugins_url('default-template/assets/css/style.css', dirname(__FILE__)); ?>">
+        <link rel="stylesheet" href="<?php echo plugins_url('default/assets/css/style.css', dirname(__FILE__)); ?>">
 
         <title>Maintenance & Development Mode | <?php echo esc_html(get_bloginfo('name')); ?></title>
     </head>
@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-sm-6">
             <header>
-                <img src="<?php echo plugins_url('default-template/assets/img/wpza_small.jpeg', dirname(__FILE__)); ?>" width="150" height="150" alt="WPZA Logo"><br>
+                <img src="<?php echo plugins_url('default/assets/img/wpza_small.jpeg', dirname(__FILE__)); ?>" width="150" height="150" alt="WPZA Logo"><br>
                 <h1><strong><?php echo get_site_url(); ?></strong></h1>
                 
                 <hr>

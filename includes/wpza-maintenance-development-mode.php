@@ -22,10 +22,10 @@ function wpza_maintenance_mode() {
 		header( 'HTTP/1.1 Service Unavailable', true, 503 );
 		header( 'Content-Type: text/html; charset=utf-8' );
                 
-		if ( file_exists( plugin_dir_path( __FILE__ ) . 'custom-template/custom-template.php' ) ) {
-                    require_once( plugin_dir_path( __FILE__ ) . 'custom-template/custom-template.php' );
+		if ( file_exists( plugin_dir_path( __FILE__ ) . 'custom/template.php' ) ) {
+                    require_once( plugin_dir_path( __FILE__ ) . 'custom/template.php' );
 		} else {
-                    require_once( plugin_dir_path( __FILE__ ) . 'default-template/default-template.php' );
+                    require_once( plugin_dir_path( __FILE__ ) . 'default/template.php' );
                 }
 		die();
 	}
