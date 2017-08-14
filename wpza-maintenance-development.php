@@ -8,7 +8,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Maintenance & Development Mode
- * Plugin URI:        https://wpza.co.za/maintenance-plugin
+ * Plugin URI:        https://wpza.co.za/wpza-plugins
  * Description:       WPZA Maintenance mode plugin, use this plugin while developing the web site.
  * Version:           1.0.0
  * Author:            Donovan Maidens
