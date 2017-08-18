@@ -1,29 +1,28 @@
 /*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
+WPZA Website Maintenance Services
+https://wpza.co.za
 */
-/* 
-    Created on : Nov 22, 2016, 12:59:23 PM
-    Author     : Donovan Maidens <donovan@anomalous.co.za>
-*/
-
 body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 16px;
     line-height: 1.5;
-    background-color: #297fb8 !important;
-    color: #ffffff;
+    background-color: #e3e3e3 !important;
+    color: #4D4D4D;
     padding-top:60px;
 }
-
+.wpza-logo {
+    
+    max-width: 450px;
+margin-top: 15px;
+}
 h1 {
-	font-size: 38px;
-	margin-bottom: 22px;
+    font-size: 38px;
+    margin-bottom: 22px;
 }
 a {
-    color: #ffffff;
+    color: #CC3333;
 }
 footer {
     margin-top:30px;
 }
+/* Last Line of style */
