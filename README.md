@@ -19,13 +19,13 @@ Version: 2.0.0
 
 ### Default Template
 
-The plugin uses a default template stored in /includes/default-template/default-template.php.
+The plugin uses a default template stored in /includes/default/template.php.
 If there is no custom template available this is the default template used. Our suggestion if you are a developer, is to modify the default files for your agency, and then use the custom template for your client.
 
 ### Custom Template
 
-To use a custom template create a file in /includes/custom-template/custom-template.php.
-What we find helpful s to copy the contents of the default-template folder to custom-template folder.
+To use a custom template create a file in /includes/custom/template.php.
+What we find helpful s to copy the contents of the default template folder to custom folder.
 Then edit what ever you want.
 
 ## Authors
