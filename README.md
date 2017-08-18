@@ -32,6 +32,8 @@ Then edit what ever you want.
 
 * **Donovan Maidens** - *Initial work* - [WPZA](https://wpza.co.za)
 
+The Maintenance and Development plugin is maintained by [WPZA](https://wpza.co.za). [WPZA](https://wpza.co.za) specializes is hosting and maintaining WordPress Websites.
+
 See also the list of [contributors](https://github.com/djm56/Maintenance-And-Development-Plugin/graphs/contributors) who participated in this project.
 
 ## License
