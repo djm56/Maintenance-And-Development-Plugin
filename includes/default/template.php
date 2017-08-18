@@ -20,6 +20,8 @@
         <link rel="stylesheet" href="<?php echo plugins_url('default/assets/css/style.css', dirname(__FILE__)); ?>">
         <title>Maintenance & Development Mode | <?php echo esc_html(get_bloginfo('name')); ?></title>
         <meta name=”robots” content=”noindex,nofollow,noodp” />
+        <!-- Place this tag in your head or just before your close body tag. -->
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
     </head>
     <body>
         <div class="container">
@@ -36,6 +38,8 @@
                         <p>WPZA specializes is hosting and maintaining WordPress Websites. Have a look at our specialized WordPress Maintenance Services at <br>
                             <a href="https://wpza.co.za" target="_blank"><strong>https://wpza.co.za</strong></a></p>   
                         <h4>WPZA keep's your WordPress site: secure, maintained, recoverable and up to date.</h4>
+                        <!-- Place this tag where you want the button to render. -->
+                        <a class="github-button" href="https://github.com/WPZA/Maintenance-And-Development-Plugin" data-size="large" data-show-count="true" aria-label="Star WPZA/Maintenance-And-Development-Plugin on GitHub">Star</a>
                     </main>
                 </div>
                 <div class="col-sm-6">
